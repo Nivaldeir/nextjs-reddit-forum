@@ -1,0 +1,94 @@
+{
+  "feed": [
+    {
+      "username": "user2",
+      "created_at": "2024-04-05T12:30:00Z",
+      "title": "Post 2",
+      "body": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "like": -5,
+      "dislike": -10,
+      "comments": 12,
+      "id": "7659"
+    },
+    {
+      "username": "user3",
+      "created_at": "2024-04-04T15:45:00Z",
+      "title": "Post 3",
+      "body": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "like": 1,
+      "dislike": 1,
+      "comments": 10,
+      "id": "61f8"
+    },
+    {
+      "username": "user4",
+      "created_at": "2024-04-03T10:00:00Z",
+      "title": "Post 4",
+      "body": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "like": 22,
+      "dislike": 1,
+      "comments": 15,
+      "id": "1f61"
+    },
+    {
+      "username": "user5",
+      "created_at": "2024-04-02T16:20:00Z",
+      "title": "Post 5",
+      "body": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "like": 22,
+      "dislike": 6,
+      "comments": 9,
+      "id": "bb7c"
+    },
+    {
+      "username": "user6",
+      "created_at": "2024-04-01T09:45:00Z",
+      "title": "Post 6",
+      "body": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+      "like": 17,
+      "dislike": 1,
+      "comments": 11,
+      "id": "a12c"
+    },
+    {
+      "username": "user7",
+      "created_at": "2024-03-31T14:10:00Z",
+      "title": "Post 7",
+      "body": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+      "like": 30,
+      "dislike": 8,
+      "comments": 13,
+      "id": "733f"
+    },
+    {
+      "username": "user8",
+      "created_at": "2024-03-30T11:20:00Z",
+      "title": "Post 8",
+      "body": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+      "like": 28,
+      "dislike": 3,
+      "comments": 14,
+      "id": "3d32"
+    },
+    {
+      "username": "user9",
+      "created_at": "2024-03-29T17:30:00Z",
+      "title": "Post 9",
+      "body": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
+      "like": 21,
+      "dislike": 5,
+      "comments": 16,
+      "id": "bb78"
+    },
+    {
+      "username": "user10",
+      "created_at": "2024-03-28T13:55:00Z",
+      "title": "Post 10",
+      "body": "Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",
+      "like": 23,
+      "dislike": 2,
+      "comments": 11,
+      "id": "8290"
+    }
+  ]
+}
